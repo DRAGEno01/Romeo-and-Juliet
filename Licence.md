@@ -1,4 +1,5 @@
 - Mr. Mancev (English Teacher of 9:19 in 2022) is free to use and share to his class.
+- Mr. Smith (English Teacher of 9:20 in 2022) is free to use and share to his class.
 - Mr. Whittle (English Teacher of 9:21 in 2022) is free to use and share to his class.
 
 # Your End
