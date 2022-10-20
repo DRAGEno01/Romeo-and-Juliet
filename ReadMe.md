@@ -1,15 +1,20 @@
-# Romeo-and-Juliet
+# Romeo and Juliet - Read Me
 
-This project was made for: Year 9 English (Term 3) 2022.
-The project will continue until it is seen to not further improve.
+Welcome to the home of the Romeo and Juliet site. This site was made for 9.19, a year 9 class in Melbourne on year 2022. The page was only ment for one or two pages of information, but has become much more.
 
-Class of 9:19, 9:20 and 9:21 can use it.
 
-# Code
+So where are we going from here?
+DRAGE Co. is developing new things for you to be able to use, while MMancev Industries are working with DRAGE Co. for a two-year-relationship. This means that both partys are willing to continue to make a new website, with a different idea. You will be able to find the new site link on this page around next year.
 
-No open source code will be uploaded.
-Code can be found in the files, but try not to change it:
-- Changing might break the site.
-- Lawsuits can happen.
+# What is the Romeo and Juliet Site?
+
+The site contains information, video, essay helper and quizes helping people with learning about Romeo and Juliet. The site is a downloadable zip folder that is run on your computer.
+
+# Licence
+
+You can view it by going to the file or pressing the view licence button.
+
+
+If you do NOT meet the requirements to use the site, we request you don't use it until there is a public version for it.
 
 # ENJOY USING THE PROJECT!
