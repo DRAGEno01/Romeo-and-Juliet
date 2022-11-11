@@ -10,3 +10,5 @@ You will then see 3 download options below.
 
 - Click the icon with the BOX to download the correct files.
 There you go, you have downloaded a ZIP file with the site in it.
+
+Becareful to download the latest version and not the ALPHA, we are currently in BETA and would request you download the latest version: BETA.
