@@ -1,3 +1,3 @@
 # Version:
 
-- 1.7.2 [ALPHA]
+- 1.2.2 [BETA]
