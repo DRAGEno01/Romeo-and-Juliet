@@ -1,3 +1,3 @@
 # Version:
 
-- 1.2.2 [BETA]
+- 1.2 [BETA]
