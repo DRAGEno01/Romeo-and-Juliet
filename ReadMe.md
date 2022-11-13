@@ -12,7 +12,7 @@ The site contains information, video, essay helper and quizes helping people wit
 
 # Licence
 
-You can view it by going to the file or pressing the view licence button.
+You can view it by clicking here: [Licence](https://github.com/DRAGEno01/Romeo-and-Juliet/blob/main/Licence.md).
 
 
 If you do NOT meet the requirements to use the site, we request you don't use it until there is a public version for it.
