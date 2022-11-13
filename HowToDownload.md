@@ -12,3 +12,6 @@ You will then see 3 download options below.
 There you go, you have downloaded a ZIP file with the site in it.
 
 Becareful to download the latest version and not the ALPHA, we are currently in BETA and would request you download the latest version: BETA.
+
+# To view the Releases you will need to go back to the home page!
+- [HOME PAGE](https://github.com/DRAGEno01/Romeo-and-Juliet/)
