@@ -8,7 +8,7 @@ DRAGE Co. is developing new things for you to be able to use, while MMancev Indu
 
 # What is the Romeo and Juliet Site?
 
-The site contains information, video, essay helper and quizes helping people with learning about Romeo and Juliet. The site is a downloadable zip folder that is run on your computer.
+The site contains information, video, essay helper and quizes helping people with learning about Romeo and Juliet. The site is a downloadable zip folder that is run on your computer. Current Version: [Version](https://github.com/DRAGEno01/Romeo-and-Juliet/blob/main/Version.md)
 
 # Licence
 
