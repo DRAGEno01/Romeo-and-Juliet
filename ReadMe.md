@@ -18,3 +18,4 @@ You can view it by clicking here: [Licence](https://github.com/DRAGEno01/Romeo-a
 If you do NOT meet the requirements to use the site, we request you don't use it until there is a public version for it.
 
 # ENJOY USING THE PROJECT!
+All info on how to download is here: [Download](https://github.com/DRAGEno01/Romeo-and-Juliet/blob/main/HowToDownload.md)
