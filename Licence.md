@@ -31,3 +31,5 @@ Here is what you can and can't do.
 
 # ENJOY!
 Project Undercopyright of: DRAGE Co. and MMancev Industries.
+
+- Public viewing of the site is NOT allowed. Please do NOT download this unless you fit the licence above. Thank you.
