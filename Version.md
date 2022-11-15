@@ -1,4 +1,4 @@
 # Version:
 
 Latest:
-- 1.2 [BETA]
+- 1.3.2 [BETA]
