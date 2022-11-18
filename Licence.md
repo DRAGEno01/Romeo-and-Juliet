@@ -6,7 +6,7 @@ The following people have access to use the site freely.
 
 - Mr. Mancev (English Teacher of 9:19 in 2022) is free to use, edit and share to his class, not including: Victor, Jerry and Gabe.
 - Mr. Smith (English Teacher of 9:20 in 2022) is free to use and share to his class.
-- Mr. Whittle (English Teacher of 9:21 in 2022) is free to use and share to his class.
+- Mr. Whittle (English Teacher of 9:21 in 2022) is free to use and share to his class, not including Jack.
 
 # User Permission
 
