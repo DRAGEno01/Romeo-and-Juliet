@@ -1,16 +1,3 @@
-# WARNING
-
-Romeo and Juliet download version will no longer be supported and continued.
-
-You can view the WEBSITE version here: [Click Me](https://romeo-and-juliet.w3spaces.com/ExtraFiles/index.html)
-
-Releases will be hidden soon.
-
-
-
-
-
-
 # Romeo and Juliet - Read Me
 
 Welcome to the home of the Romeo and Juliet site. This site was made for 9.19, a year 9 class in Melbourne on year 2022. The page was only ment for one or two pages of information, but has become much more.
