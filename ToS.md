@@ -17,7 +17,7 @@ The original publishers family are allowed to request anything if need be, but i
 
 
 # Section B (Student ToS)
--A brief student ToS
+- A brief student ToS
 
 
 Students are allowed to use the content only IF the teacher is given permission.
@@ -31,8 +31,8 @@ Taking screenshots of the site without permission from the teachers who have per
 
 
 
-#Section C (Teacher ToS)
--A brief teacher ToS
+# Section C (Teacher ToS)
+- A brief teacher ToS
 
 
 Teachers are not allowed to sell KEYS to students in any grade.
