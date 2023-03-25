@@ -48,4 +48,4 @@ Teachers are not allowed to do anything that may cause them to get in trouble wi
 
 
 
-Thank you for reading the BRIEF ToS. There are more rules that everyone must follow. These rules can be found at ["https://github.com/DRAGEno01/Romeo-and-Juliet/blob/main/ToS"].
+Thank you for reading the BRIEF ToS. There are more rules that everyone must follow. These rules can be found at [here](https://github.com/DRAGEno01/Romeo-and-Juliet/blob/main/ToS.md).
